@@ -16,4 +16,21 @@ const expansions = [
     ],
     factionColor: ["maroon", "cadetblue","silver","purple"],
   },
+  {
+    expansionName: "From Empyrean Depths",
+    expansionColor: "black",
+    factionNames: [
+      "World Eaters",
+      "Emperors Children",
+      "Death Guard",
+      "Thousand Sons",
+    ],
+    factionFolders: [
+      "WorldEaters",
+      "EmperorsChildren",
+      "DeathGuard",
+      "ThousandSons",
+    ],
+    factionColor: ["red", "pink","olive","teal"],
+  },
 ];
