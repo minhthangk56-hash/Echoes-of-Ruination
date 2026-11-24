@@ -18,7 +18,7 @@ const expansions = [
   },
   {
     expansionName: "From Empyrean Depths",
-    expansionColor: "black",
+    expansionColor: "brown",
     factionNames: [
       "World Eaters",
       "Emperors Children",
